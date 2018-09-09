@@ -25,7 +25,7 @@
 
 **[快速入门TensorFlow](https://github.com/aymericdamien/TensorFlow-Examples)**
 
-[自然语言处理数据集](http://abunchofdata.com/datasets-for-natural-language-processing/)
+[自然语言处理数据集](https://github.com/Nativeatom/NaturalLanguageProcessing/blob/master/README.md)
  
 [Learning Machine Learning? Six articles you don’t want to miss](http://www.ibmbigdatahub.com/blog/learning-machine-learning-six-articles-you-don-t-want-miss)
 
@@ -61,7 +61,7 @@
 
     - Matlab科学计算
 
-    - Matplotlib画图
+    - [Matplotlib画图](https://matplotlib.org/)
 
 - 深度学习框架
 
